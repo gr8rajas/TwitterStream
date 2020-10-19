@@ -12,7 +12,7 @@ This Project streams real time Tweets every Second and analyzes the following
 4. Average number of Tweets received per minute
 5. Average number of Tweets received per hour
 6. Top 20 hashTags
-7.  Top 20 Urls
+7. Top 20 Urls
 ```
 
 ### Prerequisite
