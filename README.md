@@ -37,15 +37,16 @@ Clone the GitHib Repository in your local IDE
 If no IDE is present in your machine you can install community edition of  Intellij IDE here https://www.jetbrains.com/idea/download/#section=mac
 
 
-### Optimizations
+## Optimizations
 
 Can use Kafka Offset or BatchId for exactly once Semantics
 
 
 
+Example Outputs for Some Batches
+
 Run streamToKafka class to load twitter data into kafka and then Run processStream for Analysis
 
-Example Outputs for Some Batches
 
 ```
 
