@@ -1,5 +1,7 @@
 # Tweet Analysis
 
+![Architecture](https://github.com/gr8rajas/TwitterStream/blob/main/architecture/architecture.png)
+
 ## Getting Started
 
 ```
